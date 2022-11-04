@@ -1,0 +1,13 @@
+insert 2
+insert -1
+insert 5
+insert 3
+insert 1
+insert 4
+contains 2
+contains 5
+contains 6
+contains -2
+insert 0
+remove 0
+remove 2
